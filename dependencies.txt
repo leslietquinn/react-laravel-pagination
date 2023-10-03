@@ -1,0 +1,8 @@
+axios
+bootstrap react-bootstrap
+react-router-dom
+react-toastify
+react-hook-form
+yup
+react-hook-form @hookform/resolvers yup
+react-query
